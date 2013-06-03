@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Google Spell Check' target in the 'Google Spell Check' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
